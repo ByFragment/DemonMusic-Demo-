@@ -20,12 +20,6 @@ Repo demo versiyadır
 - BOT_NAME - Botun kullanıcı adı
 
 # Deploy
-
-<details><summary>Toxun</summary>
-<p>
-<br>
 <a href="https://heroku.com/deploy?template=https://github.com/ByFragment/DemonMusic-Demo-">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
-</p>
-</details>
