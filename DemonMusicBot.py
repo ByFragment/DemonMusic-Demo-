@@ -65,7 +65,7 @@ def help(client, message):
 
 @bot.on_message(filters.command("alive") & filters.user({Config.BOT_OWNER}))
 async def live(client: Client, message: Message):
-    livemsg = await message.reply_text('Mükəmməl İşləyirəm 😎`)
+    livemsg = await message.reply_text('`Mükəmməl İşləyirəm 😎`')
     
 #musiqi əmri#
 
