@@ -5,7 +5,7 @@
     "keywords": [
         "Demon",
         "Music",
-        "Bot",
+        "Bot"
     ],
     "repository": "https://github.com/ByFragment/DemonMusic-Demo-",
     "success_url": "https://github.com/ByFragment/DemonMusic-Demo-",
@@ -33,7 +33,7 @@
             "required": true
         },
         "PLAYLIST_NAME": {
-            "description": "Playlist kanalının kullanıcı adını @ bu işarə olmadan yazın."
+            "description": "Playlist kanalının kullanıcı adını @ bu işarə olmadan yazın.",
             "value": "",
             "required": true
         },
