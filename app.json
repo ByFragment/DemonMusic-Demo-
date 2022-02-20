@@ -8,7 +8,7 @@
         "Bot",
     ],
     "repository": "https://github.com/ByFragment/DemonMusic-Demo-",
-    "success_url": "https://t.me/Botsinator",
+    "success_url": "https://github.com/ByFragment/DemonMusic-Demo-",
     "image": "heroku/python",
     "formation": {
         "worker": {
