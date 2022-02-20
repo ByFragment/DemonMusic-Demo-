@@ -47,7 +47,7 @@
             "value": "",
             "required": true
         },
-        "BOT_NAME": {
+        "BOT_USERNAME": {
             "description": "Botun kullanıcı adını @ bu işarə olmadan yazın.",
             "value": "",
             "required": true
