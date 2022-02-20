@@ -1,0 +1,64 @@
+{
+    "name": "DemonMusicBot",
+    "description": "Azərbaycan dilində song botu.",
+    "logo": "https://telegra.ph/file/50694e1b2a639f38c6dfd.jpg",
+    "keywords": [
+        "Demon",
+        "Music",
+        "Bot",
+    ],
+    "repository": "https://github.com/ByFragment/DemonMusic-Demo-",
+    "success_url": "https://t.me/Botsinator",
+    "image": "heroku/python",
+    "formation": {
+        "worker": {
+            "quantity": 1,
+            "size": "free"
+        }
+    },
+    "env": {
+        "API_ID": {
+            "description": "my.telegram.org saytından ala bilərsiniz.",
+            "value": "",
+            "required": true
+        },
+        "API_HASH": {
+            "description": "my.telegram.org saytından ala bilərsiniz.",
+            "value": "",
+            "required": true
+        },
+        "BOT_TOKEN": {
+            "description": "@Botfather botundan ala bilərsiniz.",
+            "value": "",
+            "required": true
+        },
+        "PLAYLIST_NAME": {
+            "description": "Playlist kanalının kullanıcı adını @ bu işarə olmadan yazın."
+            "value": "",
+            "required": true
+        },
+        "PLAYLIST_ID": {
+            "description": "Playlist kanalının ID-ni yazın.",
+            "value": "",
+            "required": true
+        },
+        "BOT_OWNER": {
+            "description": "Öz ID-nizi yazın.",
+            "value": "",
+            "required": true
+        },
+        "BOT_NAME": {
+            "description": "Botun kullanıcı adını @ bu işarə olmadan yazın.",
+            "value": "",
+            "required": true
+        }
+    },
+    "buildpacks": [
+        {
+            "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
+        },
+        {
+            "url": "heroku/python"
+        }
+    ]
+}
