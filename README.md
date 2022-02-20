@@ -3,7 +3,8 @@
 ![logo](https://telegra.ph/file/50694e1b2a639f38c6dfd.jpg)
 
 Azərbaycan dilində Song Bot 🎵
-\nRepo demo versiyadır
+
+Repo demo versiyadır
 
 ✅ Əsas Bot: [𝗗𝗲𝗺𝗼𝗻 𝗠𝘂𝘀𝗶𝗰](https:t.me/DemonMusicBot)
 
