@@ -36,7 +36,7 @@ def start(client, message):
                     InlineKeyboardButton('Rəsmi Kanal ✅', url='https://t.me/Botsinator'),
                     InlineKeyboardButton('Playlist 🎵', url='https://t.me/{Config.PLAYLIST_NAME}')
                   ],[
-                    InlineKeyboardButton('Sahib 👨🏻‍💻', url='T.me/{Config.BOT_OWNER')
+                    InlineKeyboardButton('Sahib 👨🏻‍💻', url='T.me/{Config.BOT_OWNER}')
                 ]
             ]
         )
@@ -55,7 +55,7 @@ def help(client, message):
                     InlineKeyboardButton('Rəsmi Kanal ✅', url='https://t.me/Botsinator'),
                     InlineKeyboardButton('Playlist 🎵', url='https://t.me/{Config.PLAYLIST_NAME}')
                   ],[
-                    InlineKeyboardButton('Sahib 👨🏻‍💻', url='T.me/{Config.BOT_OWNER')
+                    InlineKeyboardButton('Sahib 👨🏻‍💻', url='T.me/{Config.BOT_OWNER}')
                 ]
             ]
         )
@@ -63,7 +63,7 @@ def help(client, message):
 
 #alive mesaji#
 
-@bot.on_message(filters.command("alive") & filters.user{Config.BOT_OWNER})
+@bot.on_message(filters.command("alive") & filters.user(Config.BOT_OWNER))
 async def live(client: Client, message: Message):
     livemsg = await message.reply_text('`Mükəmməl İşləyirəm 😎`')
     
