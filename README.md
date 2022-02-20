@@ -17,7 +17,7 @@ Repo demo versiyadır
 - PLAYLIST_NAME - Playlist kanalı yaradın və kullanıcı adı əlavə edin.
 - BOT_OWNER - Öz ID niz
 - PLAYLIST_ID - Yaratdığınız playlist kanalın ID si
-- BOT_NAME - Botun kullanıcı adı
+- BOT_USERNAME - Botun kullanıcı adı
 
 # Deploy
 <a href="https://heroku.com/deploy?template=https://github.com/ByFragment/DemonMusic-Demo-">
