@@ -21,7 +21,7 @@ Repo demo versiyadır
 
 # Deploy
 
-<details><summary>Deploy</summary>
+<details><summary>Toxun</summary>
 <p>
 <br>
 <a href="https://heroku.com/deploy?template=https://github.com/ByFragment/DemonMusic-Demo-">
