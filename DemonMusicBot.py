@@ -34,9 +34,9 @@ def start(client, message):
         reply_markup=InlineKeyboardMarkup(
             [[
                     InlineKeyboardButton('Rəsmi Kanal ✅', url='https://t.me/Botsinator'),
-                    InlineKeyboardButton('Playlist 🎵', url='https://t.me/{Config.PLAYLIST_NAME}')
+                    InlineKeyboardButton('Playlist 🎵', url=f'https://t.me/{Config.PLAYLIST_NAME}')
                   ],[
-                    InlineKeyboardButton('Sahib 👨🏻‍💻', url='T.me/{Config.BOT_OWNER}')
+                    InlineKeyboardButton('Sahib 👨🏻‍💻', url=f'T.me/{Config.BOT_OWNER}')
                 ]
             ]
         )
@@ -53,9 +53,9 @@ def help(client, message):
         reply_markup=InlineKeyboardMarkup(
             [[
                     InlineKeyboardButton('Rəsmi Kanal ✅', url='https://t.me/Botsinator'),
-                    InlineKeyboardButton('Playlist 🎵', url='https://t.me/{Config.PLAYLIST_NAME}')
+                    InlineKeyboardButton('Playlist 🎵', url=f'https://t.me/{Config.PLAYLIST_NAME}')
                   ],[
-                    InlineKeyboardButton('Sahib 👨🏻‍💻', url='T.me/{Config.BOT_OWNER}')
+                    InlineKeyboardButton('Sahib 👨🏻‍💻', url=f'T.me/{Config.BOT_OWNER}')
                 ]
             ]
         )
