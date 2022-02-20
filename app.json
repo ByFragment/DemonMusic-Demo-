@@ -43,7 +43,7 @@
             "required": true
         },
         "BOT_OWNER": {
-            "description": "Öz ID-nizi yazın.",
+            "description": "Öz kullanıcı adınızı @ bu işarə olmadan yazın.",
             "value": "",
             "required": true
         },
