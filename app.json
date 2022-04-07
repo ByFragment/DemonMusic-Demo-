@@ -1,14 +1,14 @@
 {
-    "name": "DemonMusicBot",
+    "name": "YarasaMusicBot",
     "description": "Azərbaycan dilində song botu.",
-    "logo": "https://telegra.ph/file/50694e1b2a639f38c6dfd.jpg",
+    "logo": "https://t.me/tlgrmcbot?start=vTelegraphBot-review",
     "keywords": [
-        "Demon",
+        "Yarasa",
         "Music",
         "Bot"
     ],
-    "repository": "https://github.com/ByFragment/DemonMusic-Demo-",
-    "success_url": "https://github.com/ByFragment/DemonMusic-Demo-",
+    "repository": "https://github.com/XTQ067/DemonMusic-Demo-",
+    "success_url": "https://github.com/XTQ067/DemonMusic-Demo-",
     "image": "heroku/python",
     "formation": {
         "worker": {
