@@ -1,14 +1,14 @@
-# Demon Music Bot
+# Yarasa Music Bot
 
-![logo](https://telegra.ph/file/50694e1b2a639f38c6dfd.jpg)
+![logo](https://te.legra.ph/file/b79c36f7da02a8ed2b11f.jpg)
 
 Azərbaycan dilində Song Bot 🎵
 
 Repo demo versiyadır
 
-✅ Əsas Bot: [𝗗𝗲𝗺𝗼𝗻 𝗠𝘂𝘀𝗶𝗰](https:t.me/DemonMusicBot)
+✅ Əsas Bot: [ᴍᴜsɪǫɪ ʙᴏᴛᴜᴍᴜᴢ](https:t.me/YarasaMusicBot)
 
-✅ Rəsmi Telegram Kanal: [Botsinator](https:t.me/Botsinator)
+✅ Rəsmi Telegram Kanal: [YarasaMMC](https:t.me/YarasaMMC)
 
 # Lazım Olanlar
 
